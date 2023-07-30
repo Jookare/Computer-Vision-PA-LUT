@@ -1,3 +1,0 @@
-# Some unused folders
-backup/
-calibration-extra/
